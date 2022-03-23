@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.idea/
+
+.env
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
