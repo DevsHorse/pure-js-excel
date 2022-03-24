@@ -5,6 +5,7 @@
 .idea/
 
 .env
+dist
 
 ### IntelliJ IDEA ###
 .idea
