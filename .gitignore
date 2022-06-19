@@ -13,6 +13,7 @@ dist
 *.iml
 *.ipr
 out/
+.DS_Store
 
 ### VS Code ###
 .vscode/
